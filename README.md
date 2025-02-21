@@ -7,8 +7,9 @@
 <a href="https://github.com/lysanderuy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/uy_lysan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:lysander@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
+</div><h3 align="center">Connect with me:</h3>
+
+<p align="center">
 <a href="https://linkedin.com/in/Lysander Uy" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Lysander Uy" height="30" width="40" /></a><a href="https://fb.com/Lysander Uy" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Lysander Uy" height="30" width="40" /></a><a href="https://instagram.com/uy_lysan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="uy_lysan" height="30" width="40" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -24,20 +25,5 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
 <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
 </p>
-
-<h3 align="center">Stars</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysanderuy&layout=compact&theme=gotham" alt=lysanderuy />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/lysanderuy">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lysanderuy&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lysanderuy&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lysanderuy&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lysanderuy&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lysanderuy&theme=gotham" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lysanderuy&theme=gotham"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lysanderuy&label=Profile%20views&color=0e75b6&style=flat" alt="lysanderuy" /> </p>
