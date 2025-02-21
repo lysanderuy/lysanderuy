@@ -6,8 +6,9 @@
 <a href = "mailto:lysander@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div>
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
@@ -19,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
 <img src="https://dl.dropboxusercontent.com/s/6e7hk06wzjp3j52/Matlab_Logo.png" alt="MatLab" width="40" height="40"/>
 </p>
+</div>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lysanderuy&layout=compact&theme=gotham" alt=lysanderuy />
