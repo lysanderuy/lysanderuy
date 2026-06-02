@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b4a2f,100:4a5240&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5e3a,100:5a6e4a&height=120&section=header"/>
 </div>
 
 <h1 align="center">Lysander Uy</h1>
@@ -124,5 +124,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5240,100:3b4a2f&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5e3a,100:5a6e4a&height=120&section=footer"/>
 </div>
