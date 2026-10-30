@@ -6,7 +6,7 @@
 <h3 align="center">Full-Stack · Mobile · AI & Agentic · Hardware & Embedded</h3>
 
 <p align="center">
-  Computer Engineering graduate who ships across the full stack, from web and mobile apps to AI-powered and agentic systems. Grounded in hardware and embedded systems.
+  I'm a software developer who builds web and mobile apps and AI-powered systems end to end, from database to UI. My Computer Engineering background in robotics and embedded hardware keeps me close to how things actually run.
 </p>
 
 <div align="center">
