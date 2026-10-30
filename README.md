@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a5e3a,100:5a6e4a&height=120&section=header"/>
 </div>
 
-<h1 align="center">Lysander Uy</h1>
+<h1 align="center">👋 Hello, Lysander Uy-imnida!</h1>
 <h3 align="center">Full-Stack · Mobile · AI · Embedded</h3>
 
 <p align="center">
