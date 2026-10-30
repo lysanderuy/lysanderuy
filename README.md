@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Lysander Uy</h1>
-<h3 align="center">Full-Stack · Mobile · AI & Agentic · Hardware & Embedded</h3>
+<h3 align="center">Full-Stack · Mobile · AI · Embedded</h3>
 
 <p align="center">
   I'm a software developer who builds web and mobile apps and AI-powered systems end to end, from database to UI. My Computer Engineering background in robotics and embedded hardware keeps me close to how things actually run.
